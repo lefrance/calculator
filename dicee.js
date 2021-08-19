@@ -34,6 +34,9 @@ function getPath(number) {
       document.querySelector("h1").innerHTML = "player 1 has won" ;
    } else if (playerOne < playerTwo){
       document.querySelector("h1").innerHTML = "player 2 has won" ;
-   }else{
+   }else{sss
       document.querySelector("h1").innerHTML = "tie" ;
    }
+
+
+//woororoorroor
